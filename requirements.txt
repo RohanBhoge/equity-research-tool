@@ -4,6 +4,4 @@ langchain
 langchain-community
 langchain-google-genai
 chromadb
-unstructured
-libmagic
-python-magic-bin
+unstructured[local-inference]
